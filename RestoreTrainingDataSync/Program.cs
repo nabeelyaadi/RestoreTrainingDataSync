@@ -10,6 +10,7 @@ namespace RestoreTrainingDataSync
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
